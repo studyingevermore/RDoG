@@ -1,2 +1,3 @@
 # RDoG
-Ruling Deity of Gaiantannum (RPG Discord Bot)
+Ruling Deity of Gaiantannum (Discord RPG Bot)
+Fantasy RPG Bot for Discord
